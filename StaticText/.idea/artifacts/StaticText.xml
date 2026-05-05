@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StaticText">
+    <output-path>$PROJECT_DIR$/out/artifacts/StaticText</output-path>
+    <root id="archive" name="StaticText.jar">
+      <element id="module-output" name="StaticText" />
+    </root>
+  </artifact>
+</component>

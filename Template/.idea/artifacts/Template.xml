@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Template">
+    <output-path>$PROJECT_DIR$/out/artifacts/Template</output-path>
+    <root id="archive" name="Template.jar">
+      <element id="module-output" name="Template" />
+    </root>
+  </artifact>
+</component>
