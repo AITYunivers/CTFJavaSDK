@@ -2,7 +2,7 @@
 
 Welcome to the Java devkit for CTF. This kit will allow you to develop extension for the CTF Java runtime.
 
-This repository is licensed under the Unlicense for code written by myself, this only covers the Template
+This repository is licensed under the Unlicense for code written by myself, this only covers the Templates
 Any code under StaticText and JavaRuntime, along with the RuntimeSDK.jar, is the copyright of Clickteam
 
 ### The Runtime
