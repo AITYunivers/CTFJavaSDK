@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Perspective">
+    <output-path>$PROJECT_DIR$/out/artifacts/Perspective</output-path>
+    <root id="archive" name="Perspective.jar">
+      <element id="module-output" name="Perspective" />
+    </root>
+  </artifact>
+</component>
