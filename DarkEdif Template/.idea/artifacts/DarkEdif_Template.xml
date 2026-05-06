@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DarkEdif_Template">
+    <output-path>$PROJECT_DIR$/out/artifacts/DarkEdif_Template</output-path>
+    <root id="archive" name="DarkEdif_Template.jar">
+      <element id="module-output" name="DarkEdif_Template" />
+    </root>
+  </artifact>
+</component>
